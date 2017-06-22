@@ -8,7 +8,7 @@ This is a project developed for PayMob that simulates how blockchain technology 
 
 Make sure that you have installed the Multichain Blockchain on the system you will be running on. [Click here for Installations steps](http://www.multichain.com/download-install/)
 
-This project uses Python3 and Savoir, a wrapper for the Multichain blockchain in python.
+This project uses Python3 and [Savoir](https://github.com/DXMarkets/Savoir), a wrapper for the Multichain blockchain in python.
 
 You can install Savoir using pip `pip3 install Savoir`
 
